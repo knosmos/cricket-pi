@@ -5,7 +5,7 @@ Cricket Pi is a voice-controllable MIDI player with playback, tempo, and volume 
 
 ## Getting Started
 
-Clone or download the repository to your computer. Then...
+Clone or download the repository to your computer.
 
 ### Running on Windows
 * Simply run `python CricketPi.py`.
