@@ -14,8 +14,3 @@ Clone or download the repository to your computer. Then...
 * As the Raspberry Pi does not have a hardware synthesizer, Cricket Pi uses TiMidity++ for a sequencer port in order to play MIDI files. In terminal, run `sudo apt-get install timidity`.
 * Then run `timidity -iAqq`. This starts TiMidity++ and opens some sequencer ports.
 * Then run `python CricketPi.py`.
-
----
-
-## What it Looks Like
-![''](https://lh4.googleusercontent.com/4BBxzMgKVDbJLYL8TwGY6TpnRI1VBBb7XAuP4x8WYWrAhAwQHgjT8TKcOwVh_4R5YupukakpjceAYVzHtLBh=w3840-h1903-rw)
